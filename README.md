@@ -75,13 +75,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 🙏 Acknowledgments
 Thanks to the Next.js team for creating this powerful framework.
 Special thanks to all contributors and the open-source community for their support and resources.
-markdown
-Copy code
 
-### How to Use
-
-1. **Create a file** named `README.md` in the root of your Next.js project.
-2. **Copy and paste** the above code directly into that file.
-3. **Replace** placeholders such as `your-username` and `your-repo` with your actual GitHub username and repository name if needed.
-
-This `README.md` is ready to use and should serve as a comprehensive guide for anyone working
